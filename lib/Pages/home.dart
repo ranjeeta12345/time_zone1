@@ -53,7 +53,7 @@ class _HomeState extends State<Home> {
             "Edit location",
                style: TextStyle(color: Colors.white),
     )),
-      SizedBox(height: 20,),
+      SizedBox(height: 22,),
       Row(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
